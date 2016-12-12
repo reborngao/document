@@ -1,0 +1,6 @@
+阿里云root服务密码 rebornOK12
+控制台密码  123456
+ftp  账号 ftpuser   密码12345
+FTP的目录 home/www/
+
+mysql root  密码 newpass
